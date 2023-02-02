@@ -1,0 +1,7 @@
+site_name: Gyro's Kobra Go Mods
+theme:        
+        name: material
+
+nav: 
+    - Home: index.md
+    - ABout: about.md
