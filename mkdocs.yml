@@ -1,7 +1,9 @@
-site_name: My Docs
+site_name: Gyro Kobra Go Mods
 
 theme:
   name: material
+  palette:
+    primary: blue
   features:
     - content.code.copy
 
@@ -23,3 +25,6 @@ markdown_extensions:
   - markdown_include.include:
       base_path: docs
   - attr_list
+
+repo_url: https://github.com/Gyrohammer/KGM
+repo_name: gyrohammer/KGM
