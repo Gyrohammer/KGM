@@ -1,1 +1,25 @@
 site_name: My Docs
+
+theme:
+  name: material
+  features:
+    - content.code.copy
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Mod List: mod_list.md
+    - Software: software.md
+    - Hardware: hardware.md
+    - 3D Models: 3d_models.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - smarty
+  - meta
+  - toc:
+      permalink: True
+  - markdown_include.include:
+      base_path: docs
+  - attr_list
