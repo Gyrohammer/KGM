@@ -20,11 +20,14 @@ markdown_extensions:
   - codehilite
   - smarty
   - meta
+  - attr_list
+  - md_in_html
+  - tables
   - toc:
       permalink: True
   - markdown_include.include:
       base_path: docs
-  - attr_list
+  
 
 repo_url: https://github.com/Gyrohammer/KGM
 repo_name: gyrohammer/KGM

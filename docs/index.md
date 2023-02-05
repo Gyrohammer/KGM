@@ -1,17 +1,33 @@
-# Welcome to MkDocs
+# Welcome to My Mod Page!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Current Status
+* Software: 
+    ```Klipper```
+* Mainboard:
+    ```BTT SKR 3.0 + Raspi 4 4GB```
+* Steppers:
+    ```Stock```
+* Hotend:
+    ```Microswiss```
+* Extruder:
+    ```Microswiss Dual Gear Bodwen```
+* Printhead:
+    ```Hero Me Gen 7.1```
+* Cooling: 
+    
+    ```Noctua 2040mm Fan```
 
-## Commands
+    ```Dual Winsinn 5015```
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Intro
 
-## Project layout
+I decided to make a website to showcase my Kobra Go and the mods I've performed to it.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Future udpates include:
+ 
+* BOM with rough pricing.
+* More in-depth software tutorials
+* More 3D model recomendations
+* More details for hardware mods!
+
+I'll be keeping this up to date to the best of my ability!
