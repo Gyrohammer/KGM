@@ -9,11 +9,13 @@ theme:
 
 nav:
     - Home: index.md
-    - About: about.md
     - Mod List: mod_list.md
+    - Compatible Kits: compat_kits.md
     - Software: software.md
     - Hardware: hardware.md
     - 3D Models: 3d_models.md
+    - Before & After: comparison.md
+    - About: about.md
 
 markdown_extensions:
   - admonition

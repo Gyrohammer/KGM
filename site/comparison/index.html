@@ -9,17 +9,17 @@
       
       
       
-        <link rel="prev" href="../mod_list/">
+        <link rel="prev" href="../3d_models/">
       
       
-        <link rel="next" href="../hardware/">
+        <link rel="next" href="../about/">
       
       <link rel="icon" href="../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.11">
     
     
       
-        <title>Software - Gyro Kobra Go Mods</title>
+        <title>Before & After - Gyro Kobra Go Mods</title>
       
     
     
@@ -67,7 +67,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#ubuntuoctoprintmotion" class="md-skip">
+        <a href="#3d-benchy" class="md-skip">
           Skip to content
         </a>
       
@@ -100,7 +100,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Software
+              Before & After
             
           </span>
         </div>
@@ -238,61 +238,11 @@
 
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          Software
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../software/" class="md-nav__link">
         Software
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#ubuntuoctoprintmotion" class="md-nav__link">
-    Ubuntu+Octoprint+Motion
-  </a>
-  
-    <nav class="md-nav" aria-label="Ubuntu+Octoprint+Motion">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#followup" class="md-nav__link">
-    Followup
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -333,11 +283,21 @@
 
   
   
+    
   
-    <li class="md-nav__item">
-      <a href="../comparison/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         Before & After
       </a>
+      
     </li>
   
 
@@ -374,34 +334,8 @@
   
   
   
+    
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#ubuntuoctoprintmotion" class="md-nav__link">
-    Ubuntu+Octoprint+Motion
-  </a>
-  
-    <nav class="md-nav" aria-label="Ubuntu+Octoprint+Motion">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#followup" class="md-nav__link">
-    Followup
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-    </ul>
   
 </nav>
                   </div>
@@ -420,94 +354,11 @@
 
 
 
-  <h1>Software</h1>
-
-<h2 id="ubuntuoctoprintmotion">Ubuntu+Octoprint+Motion<a class="headerlink" href="#ubuntuoctoprintmotion" title="Permanent link">&para;</a></h2>
-<p>Hey everyone!</p>
-<p>I&rsquo;ve spent the past few hours configuring and setting up octoprint to work on my Kobra Go (KG). I learned quite a lot through this process, and figured someone else may want to do something similar. I know octoprint is usually installed on a pi, but those are currently unavailable and/or being scalped for 2-3x MSRP. I&rsquo;ve made it through the GPU shortage and dont want to bother with another! Anyways I found an old lenovo circa 2016 and threw Ubuntu on it.</p>
-<p>Host Info:</p>
-<div class="codehilite"><pre><span></span><code><span class="mf">2016</span><span class="w"> </span><span class="nb">Len</span><span class="n">ovo</span><span class="w"> </span><span class="n">Ideapad</span>
-
-<span class="nb">Int</span><span class="n">el</span><span class="w"> </span><span class="n">Pentium</span><span class="w"> </span><span class="mf">4405</span><span class="n">U</span><span class="w"> </span><span class="p">(</span><span class="mf">2</span><span class="n">C</span><span class="o">/</span><span class="mf">4</span><span class="n">T</span><span class="p">)</span>
-
-<span class="mf">8</span><span class="n">GB</span><span class="w"> </span><span class="n">DDR3</span>
-
-<span class="n">Ubuntu</span><span class="w"> </span><span class="mf">22.04.1</span><span class="w"> </span><span class="n">LTS</span>
-</code></pre></div>
-
-<p>I followed the, &ldquo;The Slightly Tricky Way&rdquo;, part of <a href="https://all3dp.com/2/octoprint-linux-ubuntu-tutorial/" target="_blank">this guide published by ALL3DP</a>. After doing most (I just realized now, typing this, that the tutorial does in fact mention adding the user to the correct groups. That&rsquo;ll be relevant later, woops!**) of those steps I noticed that my printer wasn&rsquo;t showing up in the devices list.</p>
-<p>Seeing this I took a look at dmesg to see what it was doing:</p>
-<div class="codehilite"><pre><span></span><code>sudo dmesg | grep tty
-</code></pre></div>
-
-<p>It turns out that a plugin, &lsquo;brltty&rsquo;, was causing my printer to connect, register on the bus, then disconnect. I found a solution here, which was to uninstall brltty:</p>
-<div class="codehilite"><pre><span></span><code>sudo apt remove brltty
-</code></pre></div>
-
-<p>After that I rebooted the machine, thinking surely it&rsquo;d be a quick connect and off to the printing wonderland. Unfortunately this wasn&rsquo;t the case; Octoprint saw the printer in the usb port, but could not establish a connection. I again checked dmesg to see if the printer had been recognized, thankfully it was. Yet octoprint would fail on auto detect, but hang when I selected a baud rate. It turns out it was just a permissions issue!** During the steps to install octoprint, a new user, octo, was created with minimal permissions. In order to allow &lsquo;octo&rsquo; to read the USB devices and access them it must be added to the &lsquo;dialout&rsquo; group via:</p>
-<div class="codehilite"><pre><span></span><code>sudo adduser octo dialout
-</code></pre></div>
-
-<p>After doing that the auto connect worked! I got my KG to connect automatically with a baud rate of 115200.</p>
-<p>One of the awesome features of octoprint is camera monitoring, which the laptop has built in via the webcam. Unfortunately, octoprint doesn&rsquo;t support native cameras but instead supports viewing a stream from some camera. This is where things get a little more interesting, so I&rsquo;m going to move to step-by-step:</p>
-<p>Login to your host as the normal user (not octo).</p>
-<p>Install motion:</p>
-<div class="codehilite"><pre><span></span><code>apt install motion
-</code></pre></div>
-
-<p>Set motion to be started automatically on boot:</p>
-<div class="codehilite"><pre><span></span><code>sudo systemctl start motion
-</code></pre></div>
-
-<p>Restart your host.</p>
-<p>Find where motion is hiding its master config file, normally it is in:</p>
-<div class="codehilite"><pre><span></span><code>/etc/motion/motion.conf
-</code></pre></div>
-
-<p>Edit the config file with sudo privilege:</p>
-<div class="codehilite"><pre><span></span><code>sudo nano motion.conf
-</code></pre></div>
-
-<p>In the file find the following lines and change them:</p>
-<p>move_output, on or off, toggles writing video clips to your host.</p>
-<div class="codehilite"><pre><span></span><code>movie_output off
-</code></pre></div>
-
-<p>stream_port specifies the port that motion will use for the stream, can be any integer</p>
-<div class="codehilite"><pre><span></span><code>stream_port 1566
-</code></pre></div>
-
-<p>stream_localhost sets if other computers on the local network can see the stream, off for public on for private</p>
-<div class="codehilite"><pre><span></span><code>stream_localhost off
-</code></pre></div>
-
-<p>stream_maxrate sets the frame-rate for the stream.</p>
-<div class="codehilite"><pre><span></span><code>steam_maxrate 30
-</code></pre></div>
-
-<p>stream_quality is pretty self explanatory, it goes from 0 to 100.</p>
-<div class="codehilite"><pre><span></span><code>stream_quality 50
-</code></pre></div>
-
-<p>stream_preview_method look to the documentation to decide on this one.</p>
-<div class="codehilite"><pre><span></span><code>stream_preview_method 4
-</code></pre></div>
-
-<p>Save this file by pressing ctrl+x</p>
-<p>Restart the motion service:</p>
-<div class="codehilite"><pre><span></span><code>sudo systemctl restart motion
-</code></pre></div>
-
-<p>In a web browser type in the IP of your machine and the port specified in the config file, as an example: </p>
-<div class="codehilite"><pre><span></span><code><span class="mf">192.168.53.234</span><span class="p">:</span><span class="mf">1566</span>
-</code></pre></div>
-
-<p>The stream should now show up! Full motion, full color video!</p>
-<p>Now we can go to the octoprint settings, to &lsquo;Webcam &amp; Timelapse&rdquo;, and enter the previous URL into the &lsquo;Stream URL&rsquo; section.</p>
-<p>Hit test and watch!</p>
-<p>So thats how I went about using an old laptop and integrated webcam to monitor my prints with octoprint!</p>
-<h3 id="followup">Followup<a class="headerlink" href="#followup" title="Permanent link">&para;</a></h3>
-<p>I have since moved on from octoprint and installed Klipper. Alongside Klipper I&rsquo;ve added an Arducam OV5647 which is mounted to the frame of the Go for a much better viewing angle.</p>
+<h1 id="3d-benchy">3D Benchy<a class="headerlink" href="#3d-benchy" title="Permanent link">&para;</a></h1>
+<ol>
+<li>First Print All Stock</li>
+</ol>
+<p><img alt="First 3D Benchy" src="../assets/first_benchy.jpg" /></p>
 
 
 
