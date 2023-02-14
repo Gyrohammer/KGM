@@ -1,0 +1,3 @@
+# [Capricorn Bowden Tube](https://www.microcenter.com/product/625642/creality-capricorn-1-meter-bowden-ptfe-tube-(without-pneumatic-connector)){target=_blank} \- 6/10
+
+This is standard for the ender 3 community, and plays fine with the Go. I will say the OEM extruder had issue pushing filament through when first installed. Eventually it worked but I had to make the spring arm extremely loose for the teeth to grip. I will say the benefit is that the kit I got included the  bed springs, as well as a lot of this bowden tube, for $13. I feel like thats a good enough deal for the springs and the bowden tubing that doesnt burn. Other than that I dont feel like it improved print quality.

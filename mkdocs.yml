@@ -6,12 +6,29 @@ theme:
     primary: blue
   features:
     - content.code.copy
+    - navigation.tabs
+    - navigation.expand
+    - navigation.path
+    - navigation.instant
 
 nav:
     - Home: index.md
-    - Mod List: mod_list.md
+    - Mods:
+      - Spring Bolts: mods/spring-bolts.md
+      - Capricorn Bowden Tube: mods/capricorn-tube.md
+      - Dual 5015 Fans: mods/5015-fans.md
+      - Print-head Shroud: mods/5015-shroud.md
+      - Buck Converters: mods/buck-converters.md
+      - Dual Z-Axis: mods/dual-z-axis.md
+      - MicroSwiss Extruder: mods/microswiss-extruder.md
+      - MicroSwiss Hotend: mods/microswiss-hotend.md
+      - Noctua 40mm: mods/noctua-40mm.md
+      - All Metal Y-Axis: mods/y-axis-metal.md
+    - Software:
+      - Intro: software/intro.md
+      - Klipper: software/klipper.md
+      - Octoprint: software/octoprint.md
     - Compatible Kits: compat_kits.md
-    - Software: software.md
     - Hardware: hardware.md
     - 3D Models: 3d_models.md
     - Before & After: comparison.md

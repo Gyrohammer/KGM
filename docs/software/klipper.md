@@ -1,0 +1,3 @@
+#### [Kobra Go Klipper!](https://reddit.com/r/anycubic/comments/10cwm16/install_klipper_on_kobra_go_or_neo/){target=_blank} \- 11/10
+
+Thanks to /u/xpeng121 we now have Klipper on the Go! Klipper is similar to marlin, but offloads a lot of the complex calculations to a head unit (pc/raspi) which allows for faster print speeds and artifact-reduction. Keep in mind that Klipper doesnt use a screen, it is web-interface only. Personally I enjoy that, but ymmv! This is definitely something to look into and a fantastic way to make the Go more performant.
