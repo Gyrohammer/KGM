@@ -29,7 +29,11 @@ nav:
       - Klipper: software/klipper.md
       - Octoprint: software/octoprint.md
     - Compatible Kits: compat_kits.md
-    - Hardware: hardware.md
+    - Accessories: 
+      - Intro: accessories/intro.md
+      - Camera: accessories/raspi_cam.md
+      - Motherboard: accessories/skr3.md
+      - Hero Me Gen. 7.1: accessories/hmg7.md
     - 3D Models: 3d_models.md
     - Before & After: comparison.md
     - About: about.md
