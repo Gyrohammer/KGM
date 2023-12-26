@@ -5,6 +5,15 @@ I decided to make a website to showcase my Kobra Go and the mods I've performed 
 
 I'll be keeping this up to date to the best of my ability!
 
+## **Recommended Order of Modifications**
+
+### [Klipper](software/klipper.md)
+This upgrade can be performed on a stock machine, making it one of the most cost efficient upgrades.
+### [Direct Drive](mods/orbiter-2.md)
+Cost and time will be the biggest sinks here, as wires will need to be extended and crimped. The cost also increases as a DD extruder must be obtained. 
+### [Enclosure](mods/enclosure.md)
+The highest cost and time sink. Lots of components will be needed and lots of wires extended.
+
 ## Current Status
 ![January '24 Setup](assets/feb23setup.jpg)
 
@@ -28,13 +37,5 @@ I'll be keeping this up to date to the best of my ability!
 
     ```Single 5015```
 
-## Recommended Order of Modifications
-
-### Klipper
-This upgrade can be performed on a stock machine, making it one of the most cost efficient upgrades.
-### Direct Drive
-Cost and time will be the biggest sinks here, as wires will need to be extended and crimped. The cost also increases as a DD extruder must be obtained. 
-### Enclosure
-The highest cost and time sink. Lots of components will be needed and lots of wires extended.
 
 
