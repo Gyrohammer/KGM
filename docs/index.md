@@ -13,7 +13,7 @@ Future udpates include:
 I'll be keeping this up to date to the best of my ability!
 
 ## Current Status
-![Feb 23' Setup](assets/feb23setup.jpg)
+![January '24 Setup](assets/feb23setup.jpg)
 
 * Software: 
     ```Klipper```
@@ -26,11 +26,11 @@ I'll be keeping this up to date to the best of my ability!
 * Hotend:
     ```Microswiss```
 * Extruder:
-    ```Microswiss Dual Gear Bodwen```
+    ```Orbiter 2.0```
 * Printhead:
-    ```Hero Me Gen 7.1```
+    ```Endli Orbiter 2.0```
 * Cooling: 
     
-    ```Noctua NF-A4x20 FLX```
+    ```Arctic S4023-15k```
 
-    ```Dual Winsinn 5015```
+    ```Single 5015```

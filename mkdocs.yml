@@ -11,19 +11,20 @@ theme:
     - navigation.path
     - navigation.instant
 
+use_directory_urls: false
+
 nav:
     - Home: index.md
     - Mods:
-      - Spring Bolts: mods/spring-bolts.md
-      - Capricorn Bowden Tube: mods/capricorn-tube.md
-      - Dual 5015 Fans: mods/5015-fans.md
-      - Print-head Shroud: mods/5015-shroud.md
+      - Silicone Spacers: mods/silicone-spacers.md
+      - Bowden Tube: mods/bowden-tubing.md
+      - Print Heads: mods/print-heads.md
       - Buck Converters: mods/buck-converters.md
-      - Dual Z-Axis: mods/dual-z-axis.md
-      - MicroSwiss Extruder: mods/microswiss-extruder.md
+      - Belted Z-Axis: mods/belted-z-axis.md
+      - Oribter 2.0: mods/orbiter-2.md
       - MicroSwiss Hotend: mods/microswiss-hotend.md
-      - Noctua 40mm: mods/noctua-40mm.md
-      - All Metal Y-Axis: mods/y-axis-metal.md
+      - Arctic 25X40 Fan: mods/arctic-40mm.md
+      - Metal Tensioners: mods/metal-tensioners.md
     - Software:
       - Intro: software/intro.md
       - Klipper: software/klipper.md
@@ -48,9 +49,6 @@ markdown_extensions:
   - tables
   - toc:
       permalink: True
-  - markdown_include.include:
-      base_path: docs
-  
 
 repo_url: https://github.com/Gyrohammer/KGM
 repo_name: gyrohammer/KGM
