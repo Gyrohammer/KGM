@@ -16,7 +16,7 @@ This product has been quite problematic for me as of recent. <img src="assets/mi
 nozzle changes things got bad. This hotend uses a single set-screw to keep the heat block/throat attached to the heat-sink. Well, when one needs to change a 
 nozzle they need to rotate the nozzle whilst holding the heat block to remove it. The single set screw is insufficient to properly hold it and will come loose every time. I've even had it some loose after ~30hrs of print time, leading to many a clog! 
 
-## [E3D Revo Nozzle](https://amzn.to/3tzqX5x){target=_blank}
+## [E3D Revo Nozzle](https://amzn.to/3v6ZGaU){target=_blank}
 
 *A worthy successor?* 
 
