@@ -19,5 +19,7 @@ This has been a goal of mine ever since I obtained this printer. To build a 'bes
 !!! note "Take Note!" 
     More may be added to this list in the future, this is what I can recall in this moment. A lot more than those parts went into this design, the printer itself also had to be modified. 
 
+## Printed Parts
+I've compiled all my parts into a zip file divided into sections for easy sorting and printing. You can download that file from [here](..assets/3d-models/enlcosure.zip)!
 
  

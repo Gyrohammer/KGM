@@ -16,13 +16,15 @@ This mod can be done with a completely stock machine! It should be the first upg
 
 1. Clone the klipper repository onto a local drive with the following command: 
 
-``` git clone https://github.com/Klipper3d/klipper.git ```
+    ``` git clone https://github.com/Klipper3d/klipper.git ```
 
 2. To compile the firmware, follow the tutorial found on the official site: [Klipper Installation and Configuration](https://www.klipper3d.org/Installation.html)
 
-3. Install the firmware by moving the compiled bin file onto an SD card. Rename this file to firmware.bin and insert it into the printer. Turn the printer on and wait for about 5min while it updates. Remove after that time and reboot.
+3. Once the firmware has been compiled, rename it from 'klipper.bin' to 'firmware.bin'. Move the 'firmware.bin' file onto a microSD card of your choice, insert it into your printer, and wait about 5min. After the 5min is up remove the sd card and power cycle the printer.
 
 4. Config file:
+
+    Continue to follow the klipper tutorial guide, the following is supplemental to the main guide.
    
     !!! warning
         **Please review these settings and fully understand them before implementation. I've blocked some out that could be problematic and should throw errors. Ensure this is correct before you deploy!**
