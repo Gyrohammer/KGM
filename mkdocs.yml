@@ -16,6 +16,8 @@ use_directory_urls: false
 nav:
     - Home: index.md
     - Mods:
+      - Enclosure: mods/enclosure.md
+      - Motherboard Swap: mods/motherboard-swap.md
       - Silicone Spacers: mods/silicone-spacers.md
       - Bowden Tube: mods/bowden-tubing.md
       - Print Heads: mods/print-heads.md
