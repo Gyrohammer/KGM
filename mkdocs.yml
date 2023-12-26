@@ -2,31 +2,48 @@ site_name: Gyro Kobra Go Mods
 
 theme:
   name: material
-  palette:
-    primary: blue
-  features:
-    - content.code.copy
-    - navigation.tabs
-    - navigation.expand
-    - navigation.path
+  langage: en
+  
+  features: 
     - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+    - header.autohide
+    - content.code.copy
+  
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/lightbulb
+        #primary: blue grey
+        name: Toggle dark mode
+        
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        #primary: slate
+        name: Toggle light mode
 
 use_directory_urls: false
 
 nav:
     - Home: index.md
-    - Mods:
-      - Enclosure: mods/enclosure.md
-      - Motherboard Swap: mods/motherboard-swap.md
-      - Silicone Spacers: mods/silicone-spacers.md
-      - Bowden Tube: mods/bowden-tubing.md
-      - Print Heads: mods/print-heads.md
-      - Buck Converters: mods/buck-converters.md
+    - Easy Mods: mods/easy-mods.md
+    - Advanced Mods:
+      - Enlcosure: mods/enclosure.md
+      - Motherboard: mods/motherboard-swap.md
+      - Print Head: mods/print-heads.md
+      - Arctic 25X40 Fan: mods/arctic-40mm.md
       - Belted Z-Axis: mods/belted-z-axis.md
       - Oribter 2.0: mods/orbiter-2.md
-      - MicroSwiss Hotend: mods/microswiss-hotend.md
-      - Arctic 25X40 Fan: mods/arctic-40mm.md
-      - Metal Tensioners: mods/metal-tensioners.md
+
     - Klipper: software/klipper.md
     - About: about.md
 
@@ -38,6 +55,9 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - toc:
       permalink: True
 

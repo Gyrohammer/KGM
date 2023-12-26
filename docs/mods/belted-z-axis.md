@@ -1,10 +1,10 @@
-# [Belted Z-Axis](https://kevinakasam.com/belt-driven-ender-3/){target=_blank} - 8/10
+# [Belted Z-Axis](https://kevinakasam.com/belt-driven-ender-3/){target=_blank}
 
 This belted z-axis mod from Kevin is one of the more involved upgrades one can perform on a Kobra Go. It involves replacing the two rear brackets with some 3D printed ones which then have to be modified to fit the eccentric nut that the Go uses. The crossbar of the frame must also be removed and replaced with a standard 2020 aluminum extrusion. 
 
 ## Replacing the Crossbar
 
-In order to replace the crossbar one must obtain some [2020 aluminum extrusion](https://amzn.to/4ayI8oi). A single extrusion must then be cut to 330mm in length, and holes drilled through the top to secure it onto the frame. I used a drill press at work, and made [a stencil](../assets/crossbarmod-stencil.stl) to get the holes correct.
+In order to replace the crossbar one must obtain some [2020 aluminum extrusion](https://amzn.to/4ayI8oi){target=_blank}. A single extrusion must then be cut to 330mm in length, and holes drilled through the top to secure it onto the frame. I used a drill press at work, and made [a stencil](../assets/crossbarmod-stencil.stl) to get the holes correct.
 
 <!-- Import the component -->
 <script type="module" src="../assets/javascript/model-viewer.js"></script>
