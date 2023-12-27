@@ -21,8 +21,10 @@ This has been a goal of mine ever since I obtained this printer. To build a 'bes
 |[Fan Extensions](https://www.aliexpress.us/item/3256802339021307.html?spm=a2g0o.order_list.order_list_main.41.6f251802NiPLFz&gatewayAdapt=glo2usa){target=_blank} | 7 | Be sure to order the **80cm** versions as they will be needed to power the exhaust fans and filter from the PSU to the control panel. |
 |[Plexiglass](https://www.tapplastics.com/product/plastics/cut_to_size_plastic/recycled-acrylic-sheets-clear){target=_blank} | 2 | 609mm x 448mm x 4.5mm   |
 |[Plexiglass](https://www.tapplastics.com/product/plastics/cut_to_size_plastic/recycled-acrylic-sheets-clear){target=_blank} | 1 | 606mm x 443mm x 4.5mm   |
+|[Metric Screw Set](https://amzn.to/3TFvwpr){target=_blank}| 1 |Always good to have a spread of bolts and such for this project.|
+|[Wood Screw Set](https://amzn.to/3RLfl7I){target=_blank}| 1 | Wood screws that will be used to secure the feet into the legs. |
 
-!!! tip "Plexiglass vs Foam Board"
+??? tip "Plexiglass vs PVC Foam Board"
     Plexiglass is *not* the end-all-be-all. A cheaper (and probably better) alternative is some kind of PVC [foam board](https://amzn.to/3TFST2e){target=_blank}. The enlcosure is designed for the following rear dimensions of 18in. x 24in. x 0.236in. Yes I realize I switched to imperial, I'm sorry, thats just what the website says. I had to convert it in the design anyway. Other foam board can work as well so long as it is close to 4.5mm thick to fit into the slots in the legs. 
 
 
@@ -38,8 +40,7 @@ I've compiled all my parts into a zip file divided into sections for easy sortin
 |[PTFE Tube Conduit](../assets/3d-models/ptfe-tube-passthru.zip)| [@fuchsr](https://www.printables.com/model/51457-ptfe-filament-conduit-for-lack-enclosure){target=_blank} | Pass through tube for the filament into the enclosure. |
 | [Bento Box](../assets/3d-models/bentobox5015_v1.zip)  | [@thrutheframe](https://www.printables.com/model/272525-bentobox-v20-carbon-filter-for-bambu-lab-x1c-enclo/files){target=_blank}  | The bento box is an internal air scrubber that I find to be beneficial for stinkier filaments (ABS, ASA, etc.)  |
 | Bento Box 5015 Adaptor | [@SSX556](https://www.printables.com/model/503886-bentobox-v20-5015-pull-configuration-caseshroud){target=_blank} | This adaptor is included with the bento box, this modification moves more air in a quieter manner vs the stock box. |
-<!-- |   |  | | -->
 
 !!! note "Developmental"
-    Do keep in mind this is all in development and is my first time designing something that is as involved as this. There are a lot of moving parts, and this is not an 'easy' project. I found it to be a bit annoying as my tolerances were too tight with the parts, this may be an issue for you! 
+    Do keep in mind this is all in development and is my first time designing something that is as involved as this. I found building this to be a bit annoying as some of my tolerances were too tight. **This may be an issue for you!** 
 
