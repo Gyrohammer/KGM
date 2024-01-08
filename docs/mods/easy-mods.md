@@ -1,14 +1,14 @@
-## **[Silicone Spacers](https://amzn.to/4azWHYH)**
+## **[Silicone Spacers](https://amzn.to/4azWHYH){target=_blank}**
 These spacers offer a much more consistent leveling process and wont warp the bed! The only catch is this mod needs one printed spacer to offset the creality cut-out. 
 
-## [Capricorn Bowden Tube](https://amzn.to/3tvvQfN){target=_blank}
+## **[Capricorn Bowden Tube](https://amzn.to/3tvvQfN){target=_blank}**
 This is apparently a standard upgrade for the low end printer market. I personally have found this to make little to no difference, and recommend spending the money elsewhere. 
 <br/>
 
 <br/>
 
 # **Hotends**
-## [MicroSwiss Hotend](https://amzn.to/4ay9Lhq){target=_blank}
+## **[MicroSwiss Hotend](https://amzn.to/4ay9Lhq){target=_blank}**
 
 *After owning this for about a year now I can say this: get a different hotend!*
 
@@ -16,7 +16,7 @@ This product has been quite problematic for me as of recent. <img src="assets/mi
 nozzle changes things got bad. This hotend uses a single set-screw to keep the heat block/throat attached to the heat-sink. Well, when one needs to change a 
 nozzle they need to rotate the nozzle whilst holding the heat block to remove it. The single set screw is insufficient to properly hold it and will come loose every time. I've even had it some loose after ~30hrs of print time, leading to many a clog! 
 
-## [E3D Revo Nozzle](https://amzn.to/3v6ZGaU){target=_blank}
+## **[E3D Revo Nozzle](https://amzn.to/3v6ZGaU){target=_blank}**
 
 *A worthy successor?* 
 
