@@ -171,7 +171,7 @@ This mod can be done with a completely stock machine! It should be the first upg
     This can be added to the main directory of klipper through the webui. Simply create a new file inside the directory named, gcode.cfg and paste the code below into it. 
 
     ??? note "Start Print Macro"
-        ```
+        {% raw %}
         [gcode_macro START_PRINT]
         gcode:
             {% set BED_TEMP = params.BED_TEMP|default(60)|float %}
@@ -227,7 +227,7 @@ This mod can be done with a completely stock machine! It should be the first upg
         #  {action_call_remote_method(
         #    "set_device_power", device="printer", state="on"
         #  )}
-        ```
+        {% endraw %}
 
 
     !!! info
