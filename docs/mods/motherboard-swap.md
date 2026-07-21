@@ -1,3 +1,5 @@
+# NOTE: SOME OF THESE LINKS ARE PART OF THE AMAZON ASSOCIATES PROGRAM OF WHICH I AM IN. BY USING THESE LINKS TO PURCHASE PRODUCTS, YOU HELP ME EARN A SMALL COMISSION. THANKS!
+
 # Replacing the Mainboard
 I was unsatisfied with the motherboard that the Kobra Go came with, the steppers arent swappable, the pinout isnt published, and the overall knowledge of the board is very limited.
 
