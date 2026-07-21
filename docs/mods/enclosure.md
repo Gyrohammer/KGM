@@ -1,3 +1,5 @@
+# NOTE: THESE LINKS ARE PART OF THE AMAZON ASSOCIATES PROGRAM OF WHICH I AM IN. BY USING THESE LINKS TO PURCHASE PRODUCTS, YOU HELP ME EARN A SMALL COMISSION. THANKS!
+
 # The Enclosure
 
 As many 3d printer enthusiasts will tell you, an enclosure is the best of all worlds. You can keep VOC's (mostly) contained, reduce temperature fluctuations, control ambient temp, and much more! It was (and still is) my goal to make an enclosure that is both compatible with the Kobra Go form factor and somewhat nice looking. 
