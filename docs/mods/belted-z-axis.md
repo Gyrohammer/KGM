@@ -1,3 +1,5 @@
+# NOTE: THESE LINKS ARE PART OF THE AMAZON ASSOCIATES PROGRAM OF WHICH I AM IN. BY USING THESE LINKS TO PURCHASE PRODUCTS, YOU HELP ME EARN A SMALL COMISSION. THANKS!
+
 # [Belted Z-Axis](https://kevinakasam.com/belt-driven-ender-3/){target=_blank}
 
 This belted z-axis mod from Kevin is one of the more involved upgrades one can perform on a Kobra Go. It involves replacing the two rear brackets with some 3D printed ones which then have to be modified to fit the eccentric nut that the Go uses. The crossbar of the frame must also be removed and replaced with a standard 2020 aluminum extrusion. 
