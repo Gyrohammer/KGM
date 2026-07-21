@@ -1,5 +1,7 @@
 # Print Heads
 
+# NOTE: SOME OF THESE LINKS ARE PART OF THE AMAZON ASSOCIATES PROGRAM OF WHICH I AM IN. BY USING THESE LINKS TO PURCHASE PRODUCTS, YOU HELP ME EARN A SMALL COMISSION. THANKS!
+
 ## [Hero Me Gen7](https://www.printables.com/model/39322-hero-me-gen-7-platform-release-4){target=_blank}
 Pros
 
