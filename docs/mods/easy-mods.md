@@ -1,3 +1,5 @@
+# NOTE: THESE LINKS ARE PART OF THE AMAZON ASSOCIATES PROGRAM OF WHICH I AM IN. BY USING THESE LINKS TO PURCHASE PRODUCTS, YOU HELP ME EARN A SMALL COMISSION. THANKS!
+
 ## **[Silicone Spacers](https://amzn.to/4azWHYH){target=_blank}**
 These spacers offer a much more consistent leveling process and wont warp the bed! The only catch is this mod needs one printed spacer to offset the creality cut-out. 
 
